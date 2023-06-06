@@ -130,14 +130,14 @@ export const testimonialData = [
     quoteImg: QuoteImg,
     message:
       "L'intero team è estremamente gentile e amichevole, sono fantastici. Estremamente bravi in ​​quello che fanno! Si consulteranno professionalmente con te.",
-    name: 'Jack Geoffrey',
+    name: 'Giorgio Loriente',
     occupation: 'Tattoo Artist',
   },
   {
     quoteImg: QuoteImg,
     message:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam culpa asperiores officia natus dignissimos autem possimus molestias aperiam?',
-    name: 'Douglas Hane',
+    name: 'Giorgio Loriente',
     occupation: 'Tattoo Artist',
   },
 ];
